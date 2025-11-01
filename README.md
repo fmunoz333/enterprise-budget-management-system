@@ -1,11 +1,14 @@
-📊 Enterprise Budget Management Dashboard System
+# 📊 Enterprise Budget Management Dashboard System
 
-Transforming financial visibility for telecommunications infrastructure investment management
+[![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow.svg)](https://powerbi.microsoft.com/)
+[![Status](https://img.shields.io/badge/Status-Production-success.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
-Show Image
-Show Image
-Show Image
-Show Image
+> ** Transforming financial visibility for telecommunications infrastructure investment management**
+
+![Dashboard Preview](./assets/0preview.png)
+
+
 🎯 Project Overview
 A comprehensive business intelligence solution that consolidated fragmented financial data into unified Power BI dashboards, providing C-level executives real-time visibility over a $718.8M telecommunications infrastructure portfolio with $50.3M annual CAPEX across 17 projects, 101 contracts, and 5 strategic programs.
 🏆 Key Achievements
