@@ -35,11 +35,11 @@ A comprehensive business intelligence solution that consolidated fragmented fina
 
 ## 🏆 Key Achievements
 
-✅ **Unified Data Source: Consolidated multiple conflicting financial data sources into single source of truth.**
-✅ **Real-Time Visibility: Enabled C-level decision-making with up-to-date budget execution tracking.**
-✅ **Process Improvement: Identified systemic data inconsistencies, triggering enterprise-wide operational enhancements.**
-✅ **Executive Adoption: Monthly review cycle established with full stakeholder engagement.**
-✅ **Cost-Effective: Leveraged existing Microsoft licenses, minimizing additional infrastructure investment.**
+- ✅ **Unified Data Source: Consolidated multiple conflicting financial data sources into single source of truth.**
+- ✅ **Real-Time Visibility: Enabled C-level decision-making with up-to-date budget execution tracking.**
+- ✅ **Process Improvement: Identified systemic data inconsistencies, triggering enterprise-wide operational enhancements.**
+- ✅ **Executive Adoption: Monthly review cycle established with full stakeholder engagement.**
+- ✅ **Cost-Effective: Leveraged existing Microsoft licenses, minimizing additional infrastructure investment.**
 
 ---
 
