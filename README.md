@@ -9,7 +9,7 @@
 
 ## 🎯 Project Overview
 
-A comprehensive business intelligence solution that consolidated fragmented financial data into unified Power BI dashboards, providing C-level executives real-time visibility over a **$718.8M telecommunications infrastructure portfolio** with **$50.3M annual CAPEX** across **17 projects**, **101 contracts**, and **5 strategic programs**.
+A comprehensive business intelligence solution that consolidated fragmented financial data into unified Power BI dashboards, providing C-level executives real-time visibility over a **multi-million dollar telecommunications infrastructure portfolio** across **strategic-structured programs, projects and procurement contracts.**
 
 ### 🏆 Key Achievements
 
@@ -22,6 +22,8 @@ A comprehensive business intelligence solution that consolidated fragmented fina
 ---
 
 ![Dashboard Preview](./assets/0preview.png)
+
+---
 
 ## 📋 Table of Contents
 
@@ -47,9 +49,9 @@ The Technical National Management area of a major telecommunications corporation
 | Challenge | Impact |
 |-----------|--------|
 | **Data Fragmentation** | Contract administrators maintained separate, unconsolidated files |
-| **Information Conflicts** | Financial reports from different departments showed contradictory values for identical contracts |
+| **Information Conflicts** | Financial reports from different departments showed contradictory values for the same contracts |
 | **Decision Delays** | C-level management lacked reliable data for timely strategic decisions |
-| **Governance Risk** | No standardized reporting framework for $718.8M portfolio |
+| **Governance Risk** | No standardized reporting framework for a multi-million dollar portfolio |
 | **Accountability Issues** | Unclear ownership and tracking of budget execution |
 
 ### Portfolio Complexity
@@ -60,13 +62,13 @@ The Technical National Management area of a major telecommunications corporation
 ├── 📅 Annual Budget: $50.3M (2025)
 ├── 📊 Programs: 5 strategic initiatives
 ├── 🎯 Projects: 17 active projects
-│   ├── Closed: 8
+│   ├── New: 3
 │   ├── Ongoing: 6
-│   └── New: 3
+│   └── Closed: 8
 └── 📄 Contracts: 101 contracts
-    ├── Ongoing: 40
+    ├── Negotiation: 12
     ├── New: 49
-    └── Negotiation: 12
+    └── Ongoing: 40
 ```
 
 ---
@@ -121,6 +123,8 @@ graph TB
 
 **Purpose:** High-level portfolio overview for strategic planning
 
+![Investment Project Portfolio](./screenshots/1programs.png)
+
 **Features:**
 - Program budget distribution (5 programs)
 - Budget allocation across programs
@@ -137,6 +141,8 @@ graph TB
 ### 2️⃣ Investment Projects Dashboard
 
 **Purpose:** Detailed project-level analysis and monitoring
+
+![Investment Projects](./screenshots/2projects.png)
 
 **Features:**
 - Budget allocation for all 17 projects
@@ -155,6 +161,8 @@ graph TB
 
 **Purpose:** Contract portfolio management and procurement tracking
 
+![Investment Contracts](./screenshots/3contracts.png)
+
 **Features:**
 - Procurement stage distribution
 - Contract allocation by project
@@ -171,6 +179,8 @@ graph TB
 ### 4️⃣ CAPEX Budget Management Dashboard
 
 **Purpose:** Real-time budget execution monitoring and variance analysis
+
+![CAPEX Budget Management](./screenshots/4budget.png)
 
 **Features:**
 - Overall budget execution: **49.21%** ($24.74M executed)
@@ -189,6 +199,8 @@ graph TB
 
 **Purpose:** Granular analysis at program, project, and contract levels
 
+![CAPEX Execution Detail](./screenshots/5execution_detail.png)
+
 **Features:**
 - Program-level execution summaries
 - Project execution with budget IDs
@@ -205,6 +217,8 @@ graph TB
 ### 6️⃣ Monthly Budget Execution Dashboard
 
 **Purpose:** Time-series analysis of budget consumption
+
+![Monthly Budget Execution](./screenshots/6monthly_budget_detail.png)
 
 **Features:**
 - Monthly execution detail by project
@@ -223,6 +237,8 @@ graph TB
 
 **Purpose:** Deep-dive analysis for specific projects
 
+![Project Drill-Down](./screenshots/7project_sheet.png)
+
 **Features:**
 - Individual project performance metrics
 - Contract listing with execution status
@@ -235,6 +251,11 @@ graph TB
 - Procurement stage impacts on execution
 
 ---
+
+> **Note:** Actual dashboard images contain sensitive corporate data and cannot be shared publicly. Screenshots above are representative layouts.
+
+---
+
 
 ## 🛠️ Technical Stack
 
@@ -294,7 +315,7 @@ graph TB
 
 ### Phase 1: Discovery & Alignment (Weeks 1-4)
 
-- Conducted stakeholder workshops with Finance, IT, PMO, and Executives
+- Conducted stakeholder workshops with Finance, Technical areas, PMO, and Executives
 - Identified authoritative data sources and validation requirements
 - Mapped existing workflows and pain points
 - Defined success criteria and KPIs
@@ -336,39 +357,6 @@ graph TB
 
 ---
 
-## 📸 Dashboard Previews
-
-### Portfolio Overview
-![Investment Project Portfolio](https://via.placeholder.com/800x450/0078D4/FFFFFF?text=Investment+Project+Portfolio+Dashboard)
-*High-level view of program budget distribution and project phases*
-
-### Project Analysis
-![Investment Projects](https://via.placeholder.com/800x450/0078D4/FFFFFF?text=Investment+Projects+Dashboard)
-*Detailed project budget allocation and execution tracking*
-
-### Contract Management
-![Investment Contracts](https://via.placeholder.com/800x450/0078D4/FFFFFF?text=Investment+Contracts+Dashboard)
-*Contract procurement stages and budget distribution*
-
-### CAPEX Execution
-![CAPEX Budget Management](https://via.placeholder.com/800x450/0078D4/FFFFFF?text=CAPEX+Budget+Management+Dashboard)
-*Real-time budget execution monitoring with variance analysis*
-
-### Detailed Reports
-![Execution Detail](https://via.placeholder.com/800x450/0078D4/FFFFFF?text=CAPEX+Execution+Detail+Dashboard)
-*Granular program, project, and contract-level execution data*
-
-### Monthly Tracking
-![Monthly Execution](https://via.placeholder.com/800x450/0078D4/FFFFFF?text=Monthly+Budget+Execution+Dashboard)
-*Time-series analysis of monthly budget consumption*
-
-### Project Deep-Dive
-![Project Drill-Down](https://via.placeholder.com/800x450/0078D4/FFFFFF?text=Project+Drill-Down+Dashboard)
-*Individual project performance with contract-level detail*
-
-> **Note:** Actual dashboard images contain sensitive corporate data and cannot be shared publicly. Screenshots above are representative layouts.
-
----
 
 ## 📊 Key Metrics
 
@@ -507,16 +495,6 @@ graph TB
 
 ---
 
-## 📚 Documentation
-
-- `README.md` - This file
-- `ARCHITECTURE.md` - Detailed technical architecture
-- `USER_GUIDE.md` - Dashboard user manual
-- `DATA_DICTIONARY.md` - Field definitions and calculations
-- `ADMIN_GUIDE.md` - System administration and maintenance
-
----
-
 ## 🔐 Data Privacy
 
 This repository contains documentation and architecture details only. **No actual corporate data, credentials, or proprietary information is included.** All screenshots and examples use representative/anonymized data for demonstration purposes.
@@ -535,7 +513,9 @@ This repository contains documentation and architecture details only. **No actua
 - Collaboration opportunities
 
 **Reach out via:**
-- 📧 Email: [Your Professional Email]
+
+!📧 [Email](emailto:fmunoz333@gmail.com)
+
 - 💼 LinkedIn: [Your LinkedIn Profile]
 - 🐙 GitHub: [Your GitHub Profile]
 
