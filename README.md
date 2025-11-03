@@ -246,7 +246,7 @@ graph TB
 - Year-over-year trend analysis
 
 **Key Insights:**
-- Project MV.16.001: 87.83% execution rate
+- Project MV.25.001: 87.83% execution rate
 - Contract-level performance variability
 - Procurement stage impacts on execution
 
