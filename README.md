@@ -151,7 +151,7 @@ graph TB
 - Contract count per project
 
 **Key Insights:**
-- Largest project (MV.16.001): **$288.57M** (40.15%)
+- Largest project (MV.25.001): **$288.57M** (40.15%)
 - Projects with highest contract complexity identified
 - Phase-based resource planning enabled
 
