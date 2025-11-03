@@ -30,10 +30,9 @@ A comprehensive business intelligence solution that consolidated fragmented fina
 - [Business Problem](#-business-problem)
 - [Solution Architecture](#-solution-architecture)
 - [Dashboard Capabilities](#-dashboard-capabilities)
-- [Technical Stack](#-technical-stack)
+- [Technical Stack](#technical-stack)
 - [Business Impact](#-business-impact)
 - [Implementation Approach](#-implementation-approach)
-- [Dashboard Previews](#-dashboard-previews)
 - [Lessons Learned](#-lessons-learned)
 - [Contact](#-contact)
 
@@ -90,18 +89,18 @@ graph TB
 
 ### Technology Components
 
-**Data Layer**
+#### Data Layer
 - **Primary Source:** SAP NetWeaver (Financial & HR systems)
 - **Validation Sources:** Project Manager inputs, Contract Administrator records
 - **Integration Middleware:** Microsoft Excel (structured relational database)
 
-**Analytics Layer**
+#### Analytics Layer
 - **Platform:** Microsoft Power BI Pro
 - **Data Modeling:** Power Query (M language), SQL
 - **Calculations:** DAX (Data Analysis Expressions)
 - **Security:** Row-Level Security (RLS) for role-based access
 
-**Presentation Layer**
+#### Presentation Layer
 - **Dashboards:** 7 comprehensive analytical views
 - **Interactivity:** Cross-filtering, drill-through, dynamic filtering
 - **Deployment:** Power BI Service with scheduled refresh
