@@ -71,7 +71,7 @@ The Technical National Management area of a major telecommunications corporation
 
 ---
 
-## 🏗️ Solution Architecture {#solution-architecture}
+## 🏢 Solution Architecture
 
 ### System Design
 
