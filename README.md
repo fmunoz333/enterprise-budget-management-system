@@ -1,5 +1,5 @@
-> **Real-World Project — CNT EP, Ecuador (2023–Present)**
-> Developed for CNT EP — Ecuador's national state-owned telecommunications operator — to give
+> **Real-World Project — data and company name changed to protect sensitive information**
+> Developed for telecommunications operator — to give
 > C-level leadership real-time visibility over a complex, multi-year infrastructure investment
 > program. Financial figures and project identifiers in this repository have been replaced with
 > representative demo data for public sharing. The architecture, hierarchy design, KPI logic,
@@ -9,7 +9,6 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Pro-yellow.svg)](https://powerbi.microsoft.com/)
 [![Status](https://img.shields.io/badge/Status-Production-success.svg)]()
-[![Client](https://img.shields.io/badge/Client-CNT%20EP-blue.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
 > **Providing C-level executives with real-time visibility over an $84M annual infrastructure program — from portfolio-level budget execution to individual contract milestones.**
@@ -33,7 +32,7 @@
 
 ## 🎯 Project Overview
 
-A **four-level executive intelligence platform** built in Power BI to consolidate financial and operational data from CNT EP's $84M annual infrastructure investment program. The dashboard gives C-level leadership and program directors a single, authoritative view across:
+A **four-level executive intelligence platform** built in Power BI to consolidate financial and operational $84M annual infrastructure investment program. The dashboard gives C-level leadership and program directors a single, authoritative view across:
 
 - 🏗️ **Portfolio Level** — Total program budget execution and overall financial health
 - 📂 **Program Level** — Budget vs. actual breakdown across program groups
@@ -153,16 +152,16 @@ Before this system, consolidating portfolio-level financial data required manual
 - At-risk contract alert table with conditional formatting
 - Spending breakdown by contract type and procurement category
 
-**Business Impact**: Provides the procurement and legal teams with a live view of contract risk exposure across the full program — critical given CNT EP's SERCOP compliance obligations.
+**Business Impact**: Provides the procurement and legal teams with a live view of contract risk exposure across the full program.
 
 ---
 
 ## 👨‍💼 Dashboard Construction Process
 
-Every design decision was governed by a single question: *What does CNT EP's C-suite need to see before the weekly executive review?*
+Every design decision was governed by a single question: *What does C-level Management need to see before the weekly executive review?*
 
 ### Strategic Planning
-- 🎯 Defined four-level hierarchy (Portfolio → Program → Project → Contract) based on CNT EP's organizational and governance structure
+- 🎯 Defined four-level hierarchy (Portfolio → Program → Project → Contract) based on Company's organizational and governance structure
 - 📋 Designed KPI framework aligned to the investment program's financial reporting requirements
 - 🔄 Validated metric definitions with program finance and procurement teams before development began
 
@@ -173,7 +172,7 @@ Every design decision was governed by a single question: *What does CNT EP's C-s
 - 🔍 Performance optimization for automated daily refresh with live operational data
 
 ### Deployment
-- 🚀 Published to CNT EP's Power BI Service organizational workspace
+- 🚀 Published to Company's Power BI Service organizational workspace
 - 🔐 Row-level security configured for four organizational access levels
 - 📅 Automated daily refresh aligned to the financial reporting calendar
 - 📚 User documentation and executive navigation guide
@@ -182,7 +181,7 @@ Every design decision was governed by a single question: *What does CNT EP's C-s
 
 ## 💼 Business Context
 
-CNT EP manages one of the most complex investment programs in Ecuador's public sector: 16 concurrent infrastructure projects, 104 procurement contracts, and an $84M annual budget — all subject to Ecuador's SERCOP public procurement regulations. The reporting challenge this dashboard was designed to solve is structural, not incidental.
+The Company manages one of the most complex investment programs in Ecuador's public sector: 16 concurrent infrastructure projects, 104 procurement contracts, and an $84M annual budget — all subject to Ecuador's SERCOP public procurement regulations. The reporting challenge this dashboard was designed to solve is structural, not incidental.
 
 ### The Problem Before This Dashboard
 
@@ -202,7 +201,7 @@ CNT EP manages one of the most complex investment programs in Ecuador's public s
 - How does current-period execution compare to plan at each of the four hierarchy levels?
 - What does the CFO need to see before the weekly executive review — in one screen?
 
-These questions are not unique to CNT EP. They are the standing financial governance agenda of any large infrastructure operator, utility, or public investment program.
+These questions are not unique to the current project or Company. They are the standing financial governance agenda of any large infrastructure operator, utility, or public investment program.
 
 ---
 
@@ -211,7 +210,7 @@ These questions are not unique to CNT EP. They are the standing financial govern
 ### Phase 1: Requirements & Architecture Design (Week 1–2)
 
 **Activities**:
-- Defined four-level data hierarchy aligned to CNT EP's organizational and reporting structure
+- Defined four-level data hierarchy aligned to Company's organizational and reporting structure
 - Established KPI dictionary: budget execution rate, cost variance, schedule performance
 - Designed page wireframes for all four dashboard views
 
@@ -308,7 +307,7 @@ DIVIDE(
 ### Phase 5: Production Deployment (Week 9–10)
 
 **Deployment**:
-- Published to CNT EP's Power BI Service organizational workspace
+- Published to Company's Power BI Service organizational workspace
 - Row-level security configured for four organizational access levels
 - Automated daily refresh established, aligned to the financial reporting calendar
 
@@ -382,7 +381,7 @@ Time intelligence:
 | Traffic light system, not trend charts, on overview | Executives need a clear threshold answer, not a data exploration challenge |
 | Drill-through over cross-page filters | Preserves context at each level; filters alone lose hierarchy orientation |
 | Breadcrumb navigation at each drill-through level | Non-technical executives cannot orient themselves without visual confirmation of where they are |
-| Neutral government-sector color palette | Avoids visual noise; consistent with CNT EP's internal reporting conventions |
+| Neutral government-sector color palette | Avoids visual noise; consistent with Company's internal reporting conventions |
 
 ---
 
