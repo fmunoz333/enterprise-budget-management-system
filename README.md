@@ -13,7 +13,7 @@
 
 > **Providing C-level executives with real-time visibility over an $84M annual infrastructure program — from portfolio-level budget execution to individual contract milestones.**
 
-![Dashboard Preview](./assets/preview.png)
+![Dashboard Preview](./assets/0preview.png)
 
 ---
 
