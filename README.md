@@ -13,7 +13,7 @@
 
 > **Providing C-level executives with real-time visibility over an $84M annual infrastructure program — from portfolio-level budget execution to individual contract milestones.**
 
-![Dashboard Preview](./assets/0preview.png)
+![Dashboard Preview](./assets/preview.png)
 
 ---
 
@@ -72,7 +72,7 @@ Before this system, consolidating portfolio-level financial data required manual
 
 **Purpose**: Give C-level leadership a single-screen financial health summary for the entire $84M program.
 
-![](./screenshots/1portfolio_executive_overview.png)
+![Investment Project Portfolio](./screenshots/1programs.png)
 
 **Key Visualizations**:
 - **Budget Execution Rate KPI Card** — Overall program spending vs. plan, with tolerance band
@@ -88,7 +88,7 @@ Before this system, consolidating portfolio-level financial data required manual
 
 **Purpose**: Break down budget execution and schedule performance across the program groups within the portfolio.
 
-![](./screenshots/2program_performance.png)
+![Investment Projects](./screenshots/2projects.png)
 
 **Key Metrics**:
 - Budget execution rate per program group
@@ -110,7 +110,7 @@ Before this system, consolidating portfolio-level financial data required manual
 
 **Purpose**: Provide project-level financial and schedule performance for each of the 16 active projects.
 
-![](./screenshots/3project_detail.png)
+![Investment Contracts](./screenshots/3contracts.png)
 
 **Key Metrics**:
 
@@ -138,7 +138,7 @@ Before this system, consolidating portfolio-level financial data required manual
 
 **Purpose**: Monitor the 104 active procurement contracts: payment milestones, execution status, and risk flags.
 
-![](./screenshots/4contract_procurement.png)
+![CAPEX Budget Management](./screenshots/4budget.png)
 
 **Key Metrics**:
 - Contracts by procurement stage
