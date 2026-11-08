@@ -436,6 +436,19 @@ Time intelligence:
 
 ---
 
+## 👤 About the Author & Contact
+
+**Fernando Muñoz** — Senior Data Analyst / Project & Program Management Consultant  
+*30+ Years Leading Technology & Infrastructure Programs ($84M+ Portfolios)*
+
+- **PMP® Certified** | **Scrum Master (PSM I)** | **Six Sigma Black Belt**
+- 🌐 **Interactive Portfolio:** [fmunoz333.github.io/fernando-munoz-cv](https://fmunoz333.github.io/fernando-munoz-cv/)
+- 💼 **Services & Consulting:** [fmunoz333.github.io/professional-services](https://fmunoz333.github.io/professional-services/)
+- 📧 **Email:** [fxmr.consult@gmail.com](mailto:fxmr.consult@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/fernando-munoz-4737571](https://www.linkedin.com/in/fernando-munoz-4737571)
+
+---
+
 ## 🔖 Tags
 
 `power-bi` `data-analytics` `business-intelligence` `project-management` `pmo` `budget-management` `kpi-dashboard` `dax` `power-query` `etl` `data-modeling` `executive-dashboard` `infrastructure` `telecommunications` `government` `procurement`
@@ -447,7 +460,5 @@ Time intelligence:
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
 
 Made with ❤️ and ☕ by Fernando Munoz
-
-[⬆ Back to Top](#-enterprise-budget-management-dashboard)
 
 </div>
