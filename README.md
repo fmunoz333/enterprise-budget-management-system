@@ -1,15 +1,9 @@
 > **Portfolio classification:** Anonymized professional engagement
-
 > **Purpose:** Demonstrate Power BI executive budget reporting, multi-level drill-through, DAX, ETL and contract monitoring.
-
 > **Data / confidentiality:** Company name, financial figures and project identifiers are changed to preserve Corporate confidentiality.
-
 > **Author:** Fernando Muñoz Rivadeneira · Quito, Ecuador
-
 > **Related profile:** [Professional CV](https://fmunoz333.github.io/fernando-munoz-cv/) · [GitHub profile](https://github.com/fmunoz333)
-
 > **Contact:** [fxmr.consult@gmail.com](mailto:fxmr.consult@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fernando-munoz-4737571)
-
 ---
 # 💼 Enterprise Budget Management Dashboard
 
