@@ -1,10 +1,11 @@
-> **Real-World Project — data and company name changed to protect sensitive information**
-> Developed for telecommunications operator — to give
-> C-level leadership real-time visibility over a complex, multi-year infrastructure investment
-> program. Financial figures and project identifiers in this repository have been replaced with
-> representative demo data for public sharing. The architecture, hierarchy design, KPI logic,
-> and DAX measures are identical to the production dashboard in active use.
+> **Portfolio classification:** Anonymized professional engagement
+> **Purpose:** Demonstrate Power BI executive budget reporting, multi-level drill-through, DAX, ETL and contract monitoring.
+> **Data / confidentiality:** Company name, financial figures and project identifiers are changed to preserve Corporate confidentiality.
+> **Author:** Fernando Muñoz Rivadeneira · Quito, Ecuador
+> **Related profile:** [Professional CV](https://fmunoz333.github.io/fernando-munoz-cv/) · [GitHub profile](https://github.com/fmunoz333)
+> **Contact:** [fxmr.consult@gmail.com](mailto:fxmr.consult@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fernando-munoz-4737571)
 
+---
 # 💼 Enterprise Budget Management Dashboard
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Pro-yellow.svg)](https://powerbi.microsoft.com/)
@@ -436,19 +437,6 @@ Time intelligence:
 
 ---
 
-## 👤 About the Author & Contact
-
-**Fernando Muñoz** — Senior Data Analyst / Project & Program Management Consultant  
-*30+ Years Leading Technology & Infrastructure Programs ($84M+ Portfolios)*
-
-- **PMP® Certified** | **Scrum Master (PSM I)** | **Six Sigma Black Belt**
-- 🌐 **Interactive Portfolio:** [fmunoz333.github.io/fernando-munoz-cv](https://fmunoz333.github.io/fernando-munoz-cv/)
-- 💼 **Services & Consulting:** [fmunoz333.github.io/professional-services](https://fmunoz333.github.io/professional-services/)
-- 📧 **Email:** [fxmr.consult@gmail.com](mailto:fxmr.consult@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/fernando-munoz-4737571](https://www.linkedin.com/in/fernando-munoz-4737571)
-
----
-
 ## 🔖 Tags
 
 `power-bi` `data-analytics` `business-intelligence` `project-management` `pmo` `budget-management` `kpi-dashboard` `dax` `power-query` `etl` `data-modeling` `executive-dashboard` `infrastructure` `telecommunications` `government` `procurement`
@@ -459,6 +447,23 @@ Time intelligence:
 
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
 
-Made with ❤️ and ☕ by Fernando Munoz
+Made by Fernando Munoz
+
+[⬆ Back to Top](#-enterprise-budget-management-dashboard)
 
 </div>
+
+---
+
+---
+
+## 📜 Author & Professional Context
+
+**Fernando Muñoz Rivadeneira** — Data Analyst, Project & Program Manager, and Technology & Operations Leader with 30+ years of experience across telecommunications, IT infrastructure, PMO governance, operational improvement, risk management, and business intelligence.
+
+This repository is part of my professional portfolio. The classification and data provenance stated at the top of this README define how its results should be interpreted.
+
+- **Professional CV:** https://fmunoz333.github.io/fernando-munoz-cv/
+- **Professional services:** https://fmunoz333.github.io/professional-services/
+- **LinkedIn:** https://www.linkedin.com/in/fernando-munoz-4737571
+- **Email:** fxmr.consult@gmail.com
