@@ -454,8 +454,6 @@ Made by Fernando Munoz
 
 ---
 
----
-
 ## 📜 Author & Professional Context
 
 **Fernando Muñoz Rivadeneira** — Data Analyst, Project & Program Manager, and Technology & Operations Leader with 30+ years of experience across telecommunications, IT infrastructure, PMO governance, operational improvement, risk management, and business intelligence.
