@@ -46,6 +46,7 @@ Before this system, consolidating portfolio-level financial data required manual
 | Metric | Value |
 |--------|-------|
 | **Annual Program Budget** | $84M+ |
+| **Active Programs** | 5 |
 | **Active Projects** | 16 |
 | **Contracts Monitored** | 104 |
 | **Dashboard Pages** | 4 |
